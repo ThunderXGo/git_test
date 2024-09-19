@@ -1,0 +1,18 @@
+im just testing out the commands bro
+
+remember closely....
+
+git status
+which is self explanatory
+
+git add . or git add (the file name)
+to add everything in repo or just a current file to staging area
+you can do your code and stuff here
+
+git commit -m "insert comment here"
+acts as using a save point, being able to access the "save file"
+make comments like "add monkey" not "added monkey"
+
+git push origin main
+this connects all the save files to the internet github page
+not to difficult if you ask me
