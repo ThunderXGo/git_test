@@ -16,3 +16,7 @@ make comments like "add monkey" not "added monkey"
 git push origin main
 this connects all the save files to the internet github page
 not to difficult if you ask me
+
+
+please genuinely try harder in school!!!
+i hope i dont have to touch this ever again because my skills are so pro
